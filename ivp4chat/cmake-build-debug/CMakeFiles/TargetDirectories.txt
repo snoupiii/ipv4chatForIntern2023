@@ -1,0 +1,3 @@
+/home/luv/CLionProjects/ivp4chat/cmake-build-debug/CMakeFiles/ipv4chat.dir
+/home/luv/CLionProjects/ivp4chat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/luv/CLionProjects/ivp4chat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ipv4chat.dir/main.cpp.o CMakeFiles/ipv4chat.dir/Server.cpp.o CMakeFiles/ipv4chat.dir/Socket.cpp.o CMakeFiles/ipv4chat.dir/Client.cpp.o -o ipv4chat  -lpthread 
